@@ -20,16 +20,16 @@ global_variables() {
     global_software_version="2.9"
 
     # Blog title
-    global_title="My fancy blog"
+    global_title="Kiiwiis.xyz"
     # The typical subtitle for each blog
-    global_description="A blog about turtles and carrots"
+    global_description="Dumb stupid shit made by a deumb stupid person"
     # The public base URL for this blog
-    global_url="http://example.com/blog"
+    global_url="https://kiiwiis.xyz"
 
     # Your name
-    global_author="John Smith"
+    global_author="Kiiwii"
     # You can use twitter or facebook or anything for global_author_url
-    global_author_url="http://twitter.com/example" 
+    global_author_url="http://twitter.com/kiiwiibiirb" 
     # Your email
     global_email="john@smith.com"
 

@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
-<channel><title>My fancy blog</title><link>http://example.com/blog/index.html</link>
-<description>A blog about turtles and carrots</description><language>en</language>
-<lastBuildDate>Sun, 19 Jul 2020 02:15:08 -0500</lastBuildDate>
-<pubDate>Sun, 19 Jul 2020 02:15:08 -0500</pubDate>
-<atom:link href="http://example.com/blog/feed.rss" rel="self" type="application/rss+xml" />
+<channel><title>Kiiwiis.xyz</title><link>https://kiiwiis.xyz/index.html</link>
+<description>Dumb stupid shit made by a deumb stupid person</description><language>en</language>
+<lastBuildDate>Sun, 19 Jul 2020 02:32:07 -0500</lastBuildDate>
+<pubDate>Sun, 19 Jul 2020 02:32:07 -0500</pubDate>
+<atom:link href="https://kiiwiis.xyz/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Archival project: UMD Movies
+</title><description><![CDATA[
+
+<p>Hello everyone! I recently got a PSP for the first time and have been loving it so far! I heard that there were movies for the PSP so I thought 
+it'd be neat to get some archived versions of it but couldn't seem to find any! So I decided to start my own archival project for them! I am going 
+to start collecting as many UMD movies as I can and when I get a new addition to my collection I'll back it up and store it online (privatley 
+though, don't want sony to come knocking down my door lol). I <i>will</i> however have a table of all the movies I have backed up with the 
+checksum and size of the .iso file when ripped! I'm really hoping that one day I can get a community going for this archive project where users 
+can add to the backup and we can have a full table of all the movies and TV shows! I've ordered my first to "movies" (really they're TV shows) and 
+they are Jackass Vol 2 & 3! They were the cheapest on ebay when I bought them so that's why :p</p>
+<br>
+<p> I'll be sure to update about this when I can!</p>
+
+<p>Tags: <a href='tag_archival.html'>archival</a>, <a href='tag_PSP.html'>PSP</a>, <a href='tag_UMD.html'>UMD</a></p>
+<!-- text end -->
+]]></description><link>https://kiiwiis.xyz/archival-project-umd-movies.html</link>
+<guid>https://kiiwiis.xyz/./archival-project-umd-movies.html</guid>
+<dc:creator>Kiiwii</dc:creator>
+<pubDate>Sun, 19 Jul 2020 02:32:04 -0500</pubDate></item>
 <item><title>
 Hello!
 </title><description><![CDATA[
@@ -13,8 +33,8 @@ Hello!
 
 <p>Tags: <a href='tag_hello-world.html'>hello-world</a></p>
 <!-- text end -->
-]]></description><link>http://example.com/blog/hello.html</link>
-<guid>http://example.com/blog/./hello.html</guid>
+]]></description><link>https://kiiwiis.xyz/hello.html</link>
+<guid>https://kiiwiis.xyz/./hello.html</guid>
 <dc:creator>John Smith</dc:creator>
 <pubDate>Sun, 19 Jul 2020 02:15:04 -0500</pubDate></item>
 </channel></rss>
